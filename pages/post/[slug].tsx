@@ -8,7 +8,6 @@ import { getPostBySlug, getPostsSlugs } from "utils/posts";
 // @ts-ignore
 import { duotoneSea } from "react-syntax-highlighter/dist/cjs/styles/prism";
 import gfm from "remark-gfm";
-import { useState } from "react";
 
 const CodeBlock = ({ language, value }: any) => {
   return (
