@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { useLastFM } from "use-last-fm";
 // @ts-ignore
 import Typewriter from "typewriter-effect";
