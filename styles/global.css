@@ -1,0 +1,76 @@
+@import "tailwindcss/base";
+
+:root {
+  --color-bg-primary: #101419;
+  --color-bg-secondary: rgba(255, 255, 255, 0.04);
+
+  --color-text-primary: #fff;
+  --color-text-secondary: #a0aec0;
+
+  --color-border-primary: #101419;
+}
+
+/** purgecss start ignore */
+.theme-light {
+  --color-bg-primary: white;
+  --color-bg-secondary: rgba(0, 0, 0, 0.04);
+
+  --color-text-primary: black;
+  --color-text-secondary: gray;
+
+  --color-border-primary: white;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  font-family: "Inter", sans-serif !important;
+}
+
+.title {
+  @apply bg-gradient-to-r from-accent to-blue-600 bg-clip-text text-transparent;
+}
+
+/* list elements */
+li::before {
+  display: none;
+}
+
+/* checkboxes */
+input[type="checkbox"] {
+  @apply mr-2;
+}
+
+/* codeblocks */
+pre {
+  font-size: 48px !important;
+}
+
+code {
+  font-size: 18px !important;
+}
+
+.terminal__header {
+  transform: translateY(100%);
+}
+
+.card {
+  width: 400px;
+  height: 520px;
+}
+
+/* Styles for lazy loaded images */
+.blur-up {
+  -webkit-filter: blur(5px);
+  filter: blur(5px);
+  transition: filter 500ms ease-in, -webkit-filter 500ms ease-in;
+}
+
+.blur-up.lazyloaded {
+  -webkit-filter: blur(0);
+  filter: blur(0);
+}
+/** purgecss end ignore */
+
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";

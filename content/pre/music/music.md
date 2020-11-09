@@ -1,0 +1,155 @@
+---
+title: Music
+description: This is a collection of all the music I need to buy and all the music I have already bought
+date: 2020-11-01
+author: zxffo
+image: https://images.pexels.com/photos/2796145/pexels-photo-2796145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+category: Notes
+---
+
+- [ ] Nation of Two - Vance Joy
+- [ ] Borrowed Lives - Pierce Fulton
+- [ ] PUP - PUP
+- [ ] charlie - fats'e
+- [ ] chest pains - cr00k
+- [x] puppy love - mom jeans
+- [ ] NobodyWantsMe - surrenderdorothy
+- [ ] This Weather Don't Play - Drama Club Romance
+- [ ] Those Days Are Gone - Free Throw
+- [ ] Sports - Modern Baseball
+- [ ] I'll Keep You In Mind, From Time to Time - Moose Blood
+- [ ] The Only Reason I Feel Secure - Pedro The Lion
+- [ ] All The Toppings - Panucci's Pizza
+- [ ] circle thinking - I hate sex
+- [ ] the front bottoms
+- [ ] the modern baseball
+- [ ] Awkward & Depressed - Canadian Softball
+- [ ] Home, Like NoPlace is There - Hotelier
+- [ ] Hayward Hills - House Plants
+- [ ] Holy Split - Origami Angel
+- [ ] Summer Death - Marietta
+- [x] Feel Something - Movements
+- [ ] The Last Weekend of Summer
+- [ ] Camping in alaska
+- [ ] How do i tell a girl a want to kiss her
+- [ ] Dancing to Dad Rock - the flat stanely
+- [ ] Only Revolutions - biffy clyro
+- [ ] Bo Burnham
+- [ ] Hoodie Allen - You're Not a robot
+- [ ] Dookie - Green Day
+- [ ] Nevermind - Nirvana
+- [ ] Strange Desire - Bleachers
+- [ ] Dizzy On the Comedown - Peripheral Vision
+- [ ] Realistic Expectation - GDP
+- [ ] Beach Bunny Audiotree Live
+- [ ] Tigers Jaw - Tigers Jaw
+- [ ] GREAT NIGHT - NEEDTOBREATHE
+- [ ] Joy, Departed - Sorority Noise
+- [ ] Greatest Hits - The offspring
+- [ ] Every Kingdom - Ben Howard
+- [ ] Big Show - Briston Maroney
+- [ ] Nood Good - Jome
+- [ ] Hobo Johnson
+- [ ] Widowspeak - Widowspeak
+- [ ] Punisher - Phoebe Bridgers
+- [ ] Forever - Rnla, NU
+- [ ] Lost in Translation - New Politics
+- [ ] Ashes - Claire Guerreso
+- [ ] I Had a Dream That You Were Mine - Hamilton Leithausser Rostam
+- [ ] You, Me & Gravity: The Music of Planet Coaster - Jim Guthrie, JJ Ipsen
+- [ ] The Lumineers - The lumineers
+- [ ] Cleopartra - The lumineers
+- [ ] Jake Bugg - Jake Bugg
+- [ ] Words I Never Said - Ella Vos
+- [ ] Neopolitan Dreams - Lisa Mitchell
+- [ ] Dear Wormwood - The Oh Hellos
+- [ ] Superorganism - Superorganism
+- [ ] Better Places - Pierce Fulton
+- [ ] Crash - Dave Mathews Band
+- [ ] My Head Is An Animal - Of Monsters and Men
+- [ ] If You Leave - Daughter
+- [ ] Up From Below - Edward Sharpe & The Magnetic Zeros
+- [ ] Good News For People Who Love Bad News - Modest Mouse
+- [ ] Sign No More - Mumford & Sons
+- [ ] Speak for Yourself - Imogen Heap
+- [ ] Are We Too Late - Tom Leeb
+- [ ] Oh Wonder - Oh Wonder
+- [ ] Oh, Inverted World - The Shins
+- [ ] Three Flights From Alto Nido - Greg Laswell
+- [ ] Islands - Bear's Den
+- [ ] Wanderlust - Hollow Coves
+- [ ] Start A Riot - BANNERS
+- [ ] Sometimes - Goth Babe
+- [ ] In My Arms - Will Killen
+- [ ] Plans - Death Cab for Cutie
+- [ ] The Family Jewels - MARINA
+- [ ] GREAT NIGHT - NEEDTOBREATHE
+- [ ] I Forget Where We Were
+- [ ] Boxer - The National
+- [ ] Rose - The Front Bottoms
+- [ ] Going Grey - The Front Bottoms
+- [ ] Back On Top - The Front Bottoms
+- [ ] Talon of the Hawk - The Front Bottoms
+- [ ] Split - Mom Jeans.
+- [ ] The Front Bottoms - The Front Bottoms
+- [ ] Weezer - Weezer
+- [ ] Enema Of The State - blink-182
+- [x] Swell - Tiny Moving Parts
+- [x] The Dream Is Over - PUP
+- [ ] Ann - The Front Bottoms
+- [ ] Needy When I'm Needy
+- [ ] Berkeley's On Fire - SWMRS
+- [ ] Drive North - SMWRS
+- [ ] You're Gonna Miss It All
+- [ ] MOBO Presents: The Perfect Cast EP feat. Modern Baseball
+- [ ] Holy Ghost - Modern Baseball
+- [ ] Take Off Your Pants And Jacket - blink-182
+- [ ] blink-182 - blink-182
+- [ ] Morbid Stuff - PUP
+- [ ] Kids - Kids
+- [ ] Never Happy, Ever After
+- [ ] Pleasant Living - Tiny Moving Parts
+- [ ] This Couch Is Long & Full of Friendship
+- [ ] Celebrate - Tiny Moving Parts
+- [ ] breathe - Tiny Moving Parts
+- [ ] Mom Jeans. on Audiotree Live
+- [ ] Best Buds - Mom Jeans.
+- [ ] Don't Enter, Pt.3
+- [ ] okay. - AS IT IS
+- [ ] Greatest Hits - Good Charlotte
+- [ ] Bleed American - Jimmy Eat World
+- [ ] Opposites - biffy clyro
+- [ ] Greatest Hits: God's Favorite Band
+- [ ] White Blood Cells - The White Stripes
+- [ ] Keep Doing What You're Doing
+- [ ] Life's Not Out To Get You - Neck Deep
+- [ ] Put Yourself Back Together - Real Friends
+- [ ] 2004 Breakup
+- [ ] The Albatross - Foxing
+- [ ] Much Love - Microwave
+- [ ] Beachboy - McCafferty
+- [ ] Versace Summer - Jank
+- [ ] Honey Bones - DOPE LEMON
+- [ ] Bad Repuation - Joan Jett & The Blackhearts
+- [ ] Rise And Fall, Rage And Grace
+- [ ] All Killer, No Filler - Sum 41
+- [ ] Ugly is Beautiful - Oliver Tree
+- [ ] i will be my own hell because there is a devil inside my body - teen suicide
+- [ ] No Pads, No Helmets... Just Balls
+- [ ] The Poison - Bullet For My Valentine
+- [ ] Man Up - The Blue Van
+- [ ] Blur: The Best Of - Blur
+- [ ] Number Three - My Chemical Romance
+- [ ] Siamese Dream - The Smashing Pumpkins
+- [ ] The Reckoning - NEEDTOBREATHE
+- [ ] Realistic Expectations - GDP
+- [ ] Peripheral Vision - Turnover
+- [ ] Gone Now - Bleachers
+- [ ] Mellon Collie And The Infinite Sadness - The Smashing Pumpkins
+- [ ] Forever - Forever
+- [ ] Insomniac - green Day
+- [ ] The Silence In Black and White - Re-Issue - Hawthorne Heights
+- [ ] Don't You Fake it - The Red Jumpsuit Apparatus
+- [ ] They're Only Chasing Safety - Underoath
+- [ ] Wasteland - cloutastastrophe
+- [ ] headlights - family pet
