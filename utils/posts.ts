@@ -1,6 +1,5 @@
 import matter from "gray-matter";
 import fs from "fs";
-import path from "path";
 
 export function getPostsFolders() {
   // Get all posts folders located in `content/posts`
@@ -15,7 +14,7 @@ export function getPostsFolders() {
 }
 
 // Get day in format: Month day, Year. e.g. April 19, 2020
-function getFormattedDate(date) {
+function getFormattedDate(date: any) {
   const options = { year: "numeric", month: "long", day: "numeric" };
   const formattedDate = date.toLocaleDateString("en-US", options);
 
@@ -51,6 +50,7 @@ export function getSortedPosts() {
       };
     })
     .sort(
+      // @ts-ignore
       (a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date)
     );
 
@@ -69,7 +69,7 @@ export function getPostsSlugs() {
   return paths;
 }
 
-export function getPostBySlug(slug) {
+export function getPostBySlug(slug: any) {
   const posts = getSortedPosts();
 
   const postIndex = posts.findIndex(({ slug: postSlug }) => postSlug === slug);
