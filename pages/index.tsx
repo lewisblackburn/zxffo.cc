@@ -27,7 +27,6 @@ export default function Home({ posts }: any) {
   });
   return (
     <Layout>
-      <img src="https://iplogger.org/1WMNt7" alt="" />
       <SEO title="All posts" />
       <Hero />
       <div className="my-20">
